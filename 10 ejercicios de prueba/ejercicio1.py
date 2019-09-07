@@ -1,0 +1,12 @@
+print("PROGRAMA DE CAMBIO DE MONEDA DE SOLES A EUROS")
+print("===================================")
+Costo=int(input("Ingrese la cantidad de soles: "))
+print("========================================")
+print("El valor actual del euro es 3.65 soles")
+print("========================================")
+Cambio=float(input("Ingrese el valor del euro: "))
+print("========================================")
+resultado=Costo*Cambio
+print("El monto del cambio es: ",resultado)
+print("==================================")
+print("GRACIAS POR SU PREFERENCIA")

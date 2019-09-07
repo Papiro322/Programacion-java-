@@ -1,0 +1,7 @@
+print("BIENVENIDO AL PROGRAMA DE CALCULO DE DIFERENCIA DE EDAD")
+print("==============================================================================")
+Dato1=int(input("Ingrese la edad del mayor: "))
+Dato2=int(input("Ingrese la edad del menor: "))
+Diferencia=(Dato1-Dato2)
+print("La diferencia de edad es: ",Diferencia)
+print("GRACIAS POR SU PREFERENCIA")

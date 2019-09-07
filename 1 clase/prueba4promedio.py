@@ -1,0 +1,18 @@
+print("PROGRAMAS DE CALCULO DE PROMEDIO DE ALUMNOS")
+print("===========================================")
+print("BIENVENDO")
+print("=======================================")
+nota1=int(input("Ingrese la nota del alumno: "))
+nota2=int(input("Ingrese la nota del alumno: "))
+nota3=int(input("Ingrese la nota del alumno: "))
+nota4=int(input("Ingrese la nota del alumno: "))
+print("=======================================")
+resultado=(nota1+nota2+nota3+nota4)/4
+evaluacion1=int(input("ingrese la nota del alumno: "))
+evaluacion2=int(input("ingrese la nota del alumno: "))
+EvaluacionFinal=(evaluacion1+evaluacion2)
+PromedioFinal=(resultado+EvaluacionFinal)/2
+print("=======================================")
+print("El promedio del alumno es: ",resultado)
+print("=======================================")
+print("GRACIAS POR SU PREFERENCIA")

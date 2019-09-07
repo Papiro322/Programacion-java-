@@ -1,0 +1,13 @@
+print("==============================================================================")
+print("BIENVENIDO AL PROGRAMA DE CALCULO DE ANIMALES SEGUN SUS PATAS")
+print("==============================================================================")
+CANTIDAD=int(input("Ingrese la cantidad de conejos: "))
+resultado1=(CANTIDAD*4)
+print("La cantidad de patas de conejo son: ",resultado1)
+CANTIDAD2=int(input("Ingrese la cantidad de gallinas: "))
+resultado2=(CANTIDAD2*2)
+print("La cantidad de patas de gallina son: ",resultado2)
+CANTIDAD3=int(input("Ingrese la cantidad de pulpos: "))
+resultado3=(CANTIDAD3*8)
+print("La cantidad de extremidades de los pulpos son: ",resultado3)
+resultado4=resultado1+resultado2+resultado3

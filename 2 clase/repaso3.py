@@ -1,0 +1,17 @@
+print("programa de cambio de soles a dolares")
+print("=====================================")
+nombre=input("Ingrese su nombre: ")
+print("Hola como estas: ",nombre)
+print(":::::::::::::::::::::::::::::::::::::::")
+monto=int(input("Ingrese la cantidad de soles: "))
+cambio=float(input("Ingrese el costo del dolar: "))
+resultado=monto/cambio
+print("El resultado del cambio de soles a dolares es: ",resultado)
+print("===================================================")
+print(":::::::::::::::::::::::::::::::::::::::::::::::::::")
+print("===================================================")
+cambio1=float(input("Ingrese el costo del euro: "))
+resultado1=monto/cambio1
+print("El resultado del cambio de soles a euros es: ",resultado1)
+print("======================================================")
+print("GRACIAS POR SU PREFERENCIA")

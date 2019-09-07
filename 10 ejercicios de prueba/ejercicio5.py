@@ -1,0 +1,8 @@
+print("BIENVENIDO AL PROGRAMA DE ELABORACION DE PLANILLA DEL EMPLEADO")
+print("=====================================================================")
+HorasLaboradas=int(input("Ingrese la cantidad de horas trabajadas: "))
+PagoporHora=float(input("Ingrese el monto por horas trabajadas: "))
+resultado=(HorasLaboradas*PagoporHora)
+print("La planilla del empleado es: ",resultado)
+print("GRACIAS POR SU PREFERENCIA")
+print("==========================")

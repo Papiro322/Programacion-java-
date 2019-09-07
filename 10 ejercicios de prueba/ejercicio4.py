@@ -1,0 +1,8 @@
+print("BIENVENIDO AL PROGRAMA DE CALCULO DE DISTANCIA RECORRIDA")
+print("=====================================================================")
+velocidad=int(input("Ingrese la velocidad constante del movil: "))
+tiempo=int(input("Ingrese el tiempo: "))
+DISTANCIA=(velocidad*tiempo)
+print("La distancia recorrida es : ",DISTANCIA)
+print("GRACIAS POR SU PREFERENCIA")
+print("==========================")

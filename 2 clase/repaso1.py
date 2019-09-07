@@ -1,0 +1,12 @@
+print("========================================")
+print("SISTEMA DE VENTAS ELECTRONICAS")
+print("========================================")
+nombre=str(input("Ingrese su nombre: "))
+print("Bienvenido: ",nombre)
+manzanas=int(input("Ingrese la cantidad de manzanas: "))
+precio=15.5
+resultado=(manzanas*precio)
+print("El precio de ",manzanas,"es de: ",resultado)
+print("========================================")
+print("GRACIAS POR SU PREFERENCIA")
+print("========================================")
